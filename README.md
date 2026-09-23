@@ -24,7 +24,7 @@
 ## フィードURL
 
 ```text
-https://<github-user>.github.io/hololive-tsuushin-feed/feed.xml
+https://desktopgame.github.io/hololive-tsuushin-feed/feed.xml
 ```
 
 ## 更新頻度
