@@ -1,3 +1,11 @@
+## 自動更新停止のお知らせ（2026-10-20）
+
+GitHub Actions によるフィードの自動更新は停止しました。ワークフロー定義は実行対象の `.github/workflows` から外し、`.github/disabled-workflows/update-feed.yml` に内容を変更せず保管しています。
+
+以下は停止前の説明をそのまま残したものです。
+
+---
+
 # hololive-tsuushin-feed
 
 ホロライブ通信（https://hololive-tsuushin.com/ ）のRSSフィードを正規化して配信する、**非公式**のRSSフィードです。
